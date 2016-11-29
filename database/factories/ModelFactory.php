@@ -27,3 +27,4 @@ $factory->define(App\Post::class, function($faker) {
         'published_at' => $faker->dateTimeBetween('-1 month', '+3 days'),
     ];
 });
+

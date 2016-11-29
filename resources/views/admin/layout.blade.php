@@ -39,6 +39,8 @@
     <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
     <script src="//cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="/assets/js/admin.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    
 
     @yield('scripts')
 
